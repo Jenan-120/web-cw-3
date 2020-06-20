@@ -1,0 +1,23 @@
+.name {
+    color: red;
+    padding-left: 500px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.pc {
+    color: green;
+    list-style-type: square;
+}
+
+.ps4 {
+    color: blue;
+    list-style-type: square;
+}
+
+.nintendo {
+    color: red;
+    list-style-type: square;
+}
